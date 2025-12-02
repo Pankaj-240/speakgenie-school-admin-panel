@@ -16,7 +16,7 @@ This project is my implementation of the **School Admin Panel** frontend task sh
 
 ## 🔗 Live Demo
 
-▶ Hosted Link: Coming Soon
+▶ Hosted Link: https://speakgenie-school-admin-panel.vercel.app/
 
 ---
 
